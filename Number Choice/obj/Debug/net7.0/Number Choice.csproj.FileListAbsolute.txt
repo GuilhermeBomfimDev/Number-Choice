@@ -1,0 +1,14 @@
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\bin\Debug\net7.0\Number Choice.exe
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\bin\Debug\net7.0\Number Choice.deps.json
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\bin\Debug\net7.0\Number Choice.runtimeconfig.json
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\bin\Debug\net7.0\Number Choice.dll
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\bin\Debug\net7.0\Number Choice.pdb
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\Number Choice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\Number Choice.AssemblyInfoInputs.cache
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\Number Choice.AssemblyInfo.cs
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\Number Choice.csproj.CoreCompileInputs.cache
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\Number Choice.dll
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\refint\Number Choice.dll
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\Number Choice.pdb
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\Number Choice.genruntimeconfig.cache
+C:\Users\guigu\Programação\Projeto C#\Number Choice\Number Choice\obj\Debug\net7.0\ref\Number Choice.dll
